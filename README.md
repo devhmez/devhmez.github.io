@@ -4,7 +4,21 @@ This repository powers my public developer portfolio.
 
 I’m a Computer Engineering student at ESPRIT focused on building production web applications with **Next.js, React, TypeScript, Supabase and PostgreSQL**.
 
-## Featured work
+## Open-source projects
+
+- **[ONDE](https://github.com/devhmez/onde)** — my own product, live at [onde.tn](https://onde.tn): storefront, NFC smart-link platform and admin dashboard. Next.js, SQLite, three.js.
+- **[WARDENS](https://github.com/devhmez/wardens)** — an original 3D elemental martial-arts game in Godot 4, with a world built entirely in code.
+- **[Trajectory](https://github.com/devhmez/trajectory)** — personal progression PWA with row-level security on every table. Next.js, Supabase.
+- **[ONDE reels](https://github.com/devhmez/onde-reels)** — code-driven pipeline for marketing reels: Blender, scripted UI capture, synthesized audio.
+- **[Agence Hmez](https://github.com/devhmez/agence-hmez)** — my agency site with clinic and boutique demos, live at [agence-hmez.pages.dev](https://agence-hmez.pages.dev).
+- **[Fuel](https://github.com/devhmez/fuel)** — meal-photo calorie and macro tracker, a local-first PWA on Cloudflare Workers.
+- **[Dari Match](https://github.com/devhmez/dari-match)** — real-estate listings app with swipe discovery. React, Supabase.
+- **[Myth or Fact](https://devhmez.github.io/myth-or-fact/)** and **[Moyenne](https://devhmez.github.io/moyenne/)** — two small single-file web apps you can open right now.
+
+More on [my GitHub profile](https://github.com/devhmez).
+
+## Client work
+
 
 ### BeautyShop
 Production cosmetics e-commerce platform built for a real client.
