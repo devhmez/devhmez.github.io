@@ -8,6 +8,7 @@ I’m a Computer Engineering student at ESPRIT focused on building production we
 
 - **[ONDE](https://github.com/devhmez/onde)** — my own product, live at [onde.tn](https://onde.tn): storefront, NFC smart-link platform and admin dashboard. Next.js, SQLite, three.js.
 - **[WARDENS](https://github.com/devhmez/wardens)** — an original 3D elemental martial-arts game in Godot 4, with a world built entirely in code.
+- **[PIC Studio](https://github.com/devhmez/pic-studio)** — desktop studio for the PIC16F84A: a hand-written MikroC-subset compiler, a cycle-accurate emulator and a live circuit simulator. TypeScript, Electron.
 - **[Trajectory](https://github.com/devhmez/trajectory)** — personal progression PWA with row-level security on every table. Next.js, Supabase.
 - **[ONDE reels](https://github.com/devhmez/onde-reels)** — code-driven pipeline for marketing reels: Blender, scripted UI capture, synthesized audio.
 - **[Agence Hmez](https://github.com/devhmez/agence-hmez)** — my agency site with clinic and boutique demos, live at [agence-hmez.pages.dev](https://agence-hmez.pages.dev).
